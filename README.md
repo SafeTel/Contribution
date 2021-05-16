@@ -1,7 +1,7 @@
 # Contribution
 
 <p align="center">
-    <img src="https://github.com/SafeTel/Contribution/blob/master/images/Bouclier%20Safetel.png" width="550">
+    <img src="https://github.com/SafeTel/Contribution/blob/master/images/Bouclier%20Safetel.png" width="200">
 </p>
 
 Dans ce repository vous pourrez retrouver toute la documentation relative à la contribution des projets de SafeTel.
